@@ -1,0 +1,5 @@
+language: node_js
+
+node_js: - "node"
+
+after_success: - git config --global user.name "Adnan" - git config --global user.email "andanriaz511@gmail.com" - git remote rm origin - git remote add origin https://MuhammadAdnanRiaz:${GH_TOKEN}@github.com/testinggithubbadges.git - npm run test
