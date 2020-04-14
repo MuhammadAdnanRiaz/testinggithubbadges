@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/MuhammadAdnanRiaz/testinggithubbadges.svg?branch=master)](https://travis-ci.org/MuhammadAdnanRiaz/testinggithubbadges)
+
+[![Coverage Status](https://coveralls.io/repos/github/MuhammadAdnanRiaz/testinggithubbadges/badge.svg?branch=master)](https://coveralls.io/github/MuhammadAdnanRiaz/testinggithubbadges?branch=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
